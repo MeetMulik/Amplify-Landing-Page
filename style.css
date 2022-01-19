@@ -36,6 +36,12 @@
   border-radius: 30px;
   padding: 0.4rem 1.4rem;
 }
+#login-btn:hover {
+  background-color: #fff;
+  color: #000;
+  transition: 0.4s all ease-in-out;
+}
+
 
 .main-section {
   background: #ffcdd2;
@@ -65,4 +71,31 @@
 
 #plans-heading {
   font-weight: 900;
+}
+
+#bottom-links {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-links {
+  font-size: 30px;
+  text-decoration: none;
+  margin: 8px;
+  text-align: center;
+}
+
+.bi-instagram {
+  color: #e84396;
+}
+
+.bi-linkedin {
+  color: #176e9c;
+}
+
+.bi-globe {
+  color: #0097e6;
+}
+h5 {
+  color: #1ed760;
 }
