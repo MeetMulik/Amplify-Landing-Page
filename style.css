@@ -42,14 +42,13 @@
   transition: 0.4s all ease-in-out;
 }
 
-
 .main-section {
-  background: #ffcdd2;
+  background: #2941ab;
 }
 
 .hero-1 {
   height: 100vh;
-  color: #d83515;
+  color: #1ed760;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -63,9 +62,10 @@
 
 .hero-btn {
   font-size: 1rem;
-  font-weight: 600;
   border-radius: 30px;
-  background: #d83515;
+  background: #1ed760;
+  color: #000;
+  font-weight: 700;
   padding: 0.8rem 1.4rem;
 }
 
